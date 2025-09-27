@@ -1,10 +1,11 @@
 # BTS-in-class-group-05
 
-Name | Role | GitHub Handle | Email
---- | --- | --- | --- |--- |--- | ---
-Krish Barot | Backend (Database & API) | Krish-Barot | krishjbarot@gmail.com
-Nish Patel | Integration & Testing | 
-Ashutosh Verma | Frontend (UI Component) | 
+| Name           | Role                     | GitHub Handle  | Email                  |
+|----------------|--------------------------|----------------|------------------------|
+| Krish Barot    | Backend (Database & API) | Krish-Barot    | krishjbarot@gmail.com  |
+| Nish Patel     | Integration & Testing    | Nish4125       | nishp415@gmail.com     |
+| Ashutosh Verma | Frontend (UI Component)  | averma112      | ashutosh.1557@gmail.com|
+
 
 # Project Description
 
