@@ -1,0 +1,3 @@
+- All code must be reviewed via a Pull Request.
+- Meetings are every Friday at 2 PM.
+- User stories must have clear acceptance criteria
