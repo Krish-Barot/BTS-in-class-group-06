@@ -53,45 +53,16 @@ This project aims to develop a platform that connects individuals and small busi
 ---
 
 ## 5. Preliminary Budget  
-*(To be completed in a future workshop)*  
 
 ---
 
 ## 6. Organization and Stakeholders  
-*(To be completed in a future workshop)*  
 
 ---
 
 ## 7. Risks, Assumptions, and Constraints  
-*(To be completed in a future workshop)*  
 
 ---
 
-## Working Agreement  
 
-- All code must be reviewed via a Pull Request before merging.  
-- Team meetings are scheduled every **Friday at 2 PM**.  
-- User stories must have clear **acceptance criteria** before development.  
-
----
-
-## Definition of Done  
-
-A user story is considered **“Done”** when:  
-- Code is written, tested, and meets all acceptance criteria.  
-- Code review is completed and approved.  
-- No new bugs are introduced.  
-- Documentation is updated if necessary.  
-
----
-
-## Team Members  
-
-| Name | Role | GitHub Handle | Email |
-|------|------|----------------|--------|
-| **Krish Barot** | Backend (Database & API) | [Krish-Barot](https://github.com/Krish-Barot) | krishjbarot@gmail.com |
-| **Nish Patel** | Integration & Testing | [Nish4125](https://github.com/Nish4125) | nishp415@gmail.com |
-| **Ashutosh Verma** | Frontend (UI Components) | [averma112](https://github.com/averma112) | ashutosh.1557@gmail.com |
-
----
 
