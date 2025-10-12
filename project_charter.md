@@ -38,11 +38,6 @@ This project aims to develop a platform that connects individuals and small busi
 | **Sprint 7** | Search & Discovery Enhancement | Users can search listings using keywords. |
 | **Sprint 8** | User Profile & Final Deployment | Final user testing, bug fixes, and deployment. |
 
-### 3.1 Work BreakDown Structure
-
-<img width="677" height="612" alt="Screenshot 2025-10-11 at 7 07 26 PM" src="https://github.com/user-attachments/assets/81a23887-9bb2-4ee6-85a8-3e3330aec4ed" />
-
-
 ---
 
 ## 4. Deliverables  
