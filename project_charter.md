@@ -40,7 +40,7 @@ This project aims to develop a platform that connects individuals and small busi
 
 ### 3.1 Work Breakdown Structure (WBS)
 
-<img width="726" height="542" alt="Screenshot 2025-11-08 at 4 50 48 PM" src="https://github.com/user-attachments/assets/0a8b7a69-f9e2-4fd2-ad81-aab8b1d8159a" />
+<img width="671" height="921" alt="BTS_LAB_7 drawio" src="https://github.com/user-attachments/assets/4ea44120-7b65-4af0-b79c-1ebb38142dab" />
 
 ### 3.2 Requirements Traceability Matrix (RTM)
 
