@@ -38,6 +38,19 @@ This project aims to develop a platform that connects individuals and small busi
 | **Sprint 7** | Search & Discovery Enhancement | Users can search listings using keywords. |
 | **Sprint 8** | User Profile & Final Deployment | Final user testing, bug fixes, and deployment. |
 
+### 3.1 Work Breakdown Structure (WBS)
+
+### 3.2 Requirements Traceability Matrix (RTM)
+
+| **Requirement ID** | **Requirement** | **Deliverable ID** | **Deliverable** | **Status** |
+|--------------------|-----------------|--------------------|-----------------|-------------|
+| RQ1 | The system shall allow users to create an account and log in securely. | D1 | User Authentication Module | Completed |
+| RQ2 | The system shall allow users to post, edit, and delete trade listings. | D2 | CRUD Trade Listing Feature | In Progress |
+| RQ3 | The system shall provide filtering and search functionality. | D3 | Search and Filter Module | Planned |
+| RQ4 | The system shall display a user profile with listings and reviews. | D4 | User Profile Dashboard | Planned |
+| RQ5 | The system shall be deployed on a live server for testing and feedback. | D5 | Deployed Web Application | Not Started |
+
+
 ---
 
 ## 4. Deliverables  
