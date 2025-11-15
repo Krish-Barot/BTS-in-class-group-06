@@ -75,9 +75,9 @@ Assumptions (Scrum Framework):
 
 Team of 3 members
 
--> Developer Krish Barot(Backend): $35/hr
--> Developer Nish Patel(Frontend): $30/hr
--> Testing Ashutosh Verma(CI/CD and deployment): $25/hr
+1. Developer Krish Barot(Backend): $35/hr
+2. Developer Nish Patel(Frontend): $30/hr
+3. Testing Ashutosh Verma(CI/CD and deployment): $25/hr
 
 Weekly Sprint: 10 hours per person
 8 Sprints Total
