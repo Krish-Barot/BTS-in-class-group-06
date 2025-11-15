@@ -63,11 +63,69 @@ This project aims to develop a platform that connects individuals and small busi
 4. Search and filter functionalities for listings.  
 5. User profile management and dynamic dashboard.  
 6. Documentation including setup guide and user instructions.  
-7. Final deployed version on a hosting platform (e.g., Vercel/Render).  
+7. Final deployed version on a hosting platform (e.g., Vercel/Render).
+
+### 4.1 Gantt Chart
+<img width="3000" height="1800" alt="gantt_chart" src="https://github.com/user-attachments/assets/c741e3b0-a861-40e2-ad9f-dd14adaddcfd" />
 
 ---
 
 ## 5. Preliminary Budget  
+Assumptions (Scrum Framework):
+
+Team of 3 members
+
+Developer Krish Barot(Backend): $35/hr
+Developer Nish Patel(Frontend): $30/hr
+Testing Ashutosh Verma(CI/CD and deployment): $25/hr
+
+Weekly Sprint: 10 hours per person
+8 Sprints Total
+
+### 5.1 Personnel Cost Per Sprint
+
+| Role          | Hours/Sprint | Rate (CAD) | Cost/Sprint |
+|---------------|--------------|------------|--------------|
+| Developer Krish Barot(Backend)   | 10           | $35/hr     | $350         |
+| Developer Nish Patel(Frontend)   | 10           | $30/hr     | $300         |
+| Developer Ashutosh Verma(CI/CD and deployment)   | 10           | $25/hr     | $250         |
+| **Total Personnel Cost per Sprint** | **30 hrs** | — | **$900** |
+
+### 5.2 Total Personnel Cost
+
+| Item                | Amount |
+|---------------------|--------|
+| Cost per Sprint     | $900   |
+| Number of Sprints   | 8      |
+| **Total Personnel Cost** | **$7,200 CAD** |
+
+### 5.3 Fixed Costs
+
+| Item    | Qtd | Cost/Item          | Total Cost        |
+|---------|-----|---------------------|-------------------|
+| Hosting | 1   | $4.99 CAD/month     | $59.88 CAD/year   |
+| Domain  | 1   | $12.99 CAD/year     | $12.99 CAD/year   |
+| **Total Fixed Costs** | — | — | **$72.87 CAD/year** |
+
+### 5.4 Contingency
+
+Assuming a 10% contingency applied to personnel cost:
+
+| Item              | Amount        |
+|-------------------|---------------|
+| Personnel Cost    | $7,200 CAD    |
+| Contingency Rate  | 10%           |
+| **Contingency Amount** | **$720 CAD** |
+
+
+### 5.5 Total Estimated Cost
+
+| Category               | Cost           |
+|------------------------|----------------|
+| Total Personnel Cost   | $7,200 CAD     |
+| Fixed Costs            | $72.87 CAD     |
+| Contingency            | $720 CAD       |
+| **Grand Total**        | **$7,992.87 CAD** |
 
 ---
 
