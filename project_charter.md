@@ -131,6 +131,19 @@ Assuming a 10% contingency applied to personnel cost:
 
 ## 6. Organization and Stakeholders  
 
+### Stakeholder Matrix
+<img width="1024" height="1024" alt="Stakeholder" src="https://github.com/user-attachments/assets/dab5c120-8f6d-44d1-9362-84cff9a657bb" />
+
+### Communications Plan
+| Information                       | Owner                   | Audience              | Schedule      | Channel                       |
+| --------------------------------- | ----------------------- | --------------------- | ------------- | ----------------------------- |
+| Project Status Updates            | Project Manager         | Sponsor, Dev Team, QA | Bi-weekly     | Sprint Review + Email         |
+| Development Updates               | Scrum Master            | Development Team      | Daily         | Standups + GitHub Issues      |
+| Platform Updates for Tradespeople | Backend/Frontend Leads  | Tradespeople          | Monthly       | Email Newsletter              |
+| End User Release Notes            | Product Owner           | End Users             | Every Release | In-app Notification + Website |
+| System / Deployment Status        | DevOps / CI-CD Engineer | Dev Team, QA          | As Needed     | Slack / Teams                 |
+
+
 ---
 
 ## 7. Risks, Assumptions, and Constraints  
