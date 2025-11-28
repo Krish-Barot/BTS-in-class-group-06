@@ -39,7 +39,7 @@ This project aims to develop a platform that connects individuals and small busi
 | **Sprint 8** | User Profile & Final Deployment | Final user testing, bug fixes, and deployment. |
 
 ### 3.1 Work Breakdown Structure (WBS)
-<img width="1536" height="1024" alt="WBS" src="https://github.com/user-attachments/assets/e221acec-1b66-4ec7-9eef-eeeed0a50112" />
+<img width="581" height="631" alt="wbs" src="https://github.com/user-attachments/assets/902365eb-0302-473c-bb94-c12cf80cb14e" />
 
 
 ### 3.2 Requirements Traceability Matrix (RTM)
