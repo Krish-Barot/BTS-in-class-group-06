@@ -133,7 +133,8 @@ Assuming a 10% contingency applied to personnel cost:
 ## 6. Organization and Stakeholders  
 
 ### Stakeholder Matrix
-<img width="1024" height="1024" alt="Stakeholder" src="https://github.com/user-attachments/assets/dab5c120-8f6d-44d1-9362-84cff9a657bb" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ebcc9129-d4e1-4e58-bad1-fc5c7f466166" />
+
 
 ### Communications Plan
 | Information                       | Owner                   | Audience              | Schedule      | Channel                       |
