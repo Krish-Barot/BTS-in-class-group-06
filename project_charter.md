@@ -150,6 +150,51 @@ Assuming a 10% contingency applied to personnel cost:
 
 ## 7. Risks, Assumptions, and Constraints  
 
+### 7.1 Risks
+• Hosting or domain issues may cause temporary downtime, affecting user access.
+
+• Third-party platforms used for deployment (Vercel, Render, MongoDB Atlas) may experience service outages or slow performance.
+
+• Security vulnerabilities in authentication could expose user accounts or data.
+
+• Users or tradespeople may struggle to navigate the platform if UI/UX is unclear.
+
+• Merge conflicts or improper Git workflow may delay development progress.
+
+• Scope creep may introduce additional features that extend development time.
+
+
+### 7.2 Risk Evaluation Chart
+<img width="1024" height="962" alt="image" src="https://github.com/user-attachments/assets/f0627a76-1c37-47ea-a573-3a28dce3dd76" />
+
+
+### 7.3 Assumptions
+• The faculty is well versed in all technologies required to create and maintain the website.
+
+• The contracted services for hosting and domain are extremely reliable (accessible for more than 99.9% of the time).
+
+
+### 7.4 Constraints
+• No personal information will be stored (and/or displayed) in the website besides students names and emails.
+
+• No information regarding grades will be stored (and/or displayed) in the website.
+
+
+### 7.5 Quality Assurance
+<img width="1024" height="1024" alt="QA" src="https://github.com/user-attachments/assets/fb35cdc7-ded4-4828-bcc1-591afd596357" />
+
+• All features will be tested at the end of each sprint through functional and integration testing to ensure they meet the acceptance criteria.
+
+• Code reviews will be conducted regularly to maintain code quality, identify bugs early, and ensure consistent coding standards across the team.
+
+• The system will undergo usability testing to confirm that users can navigate the platform easily and complete core tasks without confusion.
+
+• Performance testing will be performed to verify the platform’s responsiveness, load times, and stability under typical usage conditions.
+
+• Security testing will be conducted to ensure authentication, data handling, and API endpoints follow best practices and protect user information.
+
+• Any defects discovered will be logged, prioritized, and resolved before the final deployment to ensure a reliable and stable final product.
+
 ---
 
 
