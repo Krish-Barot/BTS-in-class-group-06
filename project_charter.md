@@ -66,7 +66,7 @@ This project aims to develop a platform that connects individuals and small busi
 7. Final deployed version on a hosting platform (e.g., Vercel/Render).
 
 ### 4.1 Gantt Chart
-<img width="3352" height="912" alt="image" src="https://github.com/user-attachments/assets/e2228a21-b7e9-48b0-b881-f8fea7c4224f" />
+<img width="3968" height="1056" alt="Gemini_Generated_Image_nllp8enllp8enllp" src="https://github.com/user-attachments/assets/6c863a58-dfd3-4f9d-8b1f-4bd8a41c6243" />
 
 
 ---
